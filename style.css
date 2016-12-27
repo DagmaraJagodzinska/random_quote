@@ -1,0 +1,65 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	background-color: #1DA1F2;
+	color: #fff;
+	margin: 0; 
+}
+main {
+	width: 1200px;
+	text-align: center;
+	margin: 0 auto;
+}
+h1 {
+	font-family: 'Ubuntu', sans-serif;
+	letter-spacing: 0.08em;
+	margin-top: 2em;
+	color: #fff;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	text-transform: uppercase;
+	border: 1px solid #fff; 
+}
+h2, h3 {
+	color: #fff;
+}
+h3{
+	margin-top: 2em;
+}
+.quotemark {
+	font-family: 'Catamaran', sans-serif;
+	position: absolute;
+	top: 1.2em;
+	left: 3em;
+	font-size: 10em;
+	letter-spacing: 0.2em;
+	color: #1689cc; 
+}
+.quotemark2 {
+	font-family: 'Catamaran', sans-serif;
+	position: absolute;
+	top: 0.8em;
+	right: 3em;
+	font-size: 10em;
+	letter-spacing: 0.2em;
+	color: #1689cc; 
+}
+.box {
+	margin-top: 5em;
+}
+button {
+	border-radius: 0;
+	border: none;
+	background-color: #fff;
+	color: #1DA1F2;
+	width: 15em;
+	height: 3em;
+	margin-top: 3em;
+	font-size: 1.2em;
+	margin-left: 0.8em;
+	margin-right: 0.8em;
+}
+a, a i {
+	color: #1DA1F2;
+	text-decoration: none;
+}
